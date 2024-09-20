@@ -20,7 +20,7 @@ First install [Lumen Micro-Framework](https://github.com/laravel/lumen) if you d
 Then install **Lumen Passport**:
 
 ```bash
-composer require dusterio/lumen-passport
+composer require rasyid46/lumen-passport:dev-master
 ```
 
 Or if you prefer, edit `composer.json` manually and run then `composer update`:
@@ -28,7 +28,7 @@ Or if you prefer, edit `composer.json` manually and run then `composer update`:
 ```json
 {
     "require": {
-        "dusterio/lumen-passport": "^0.3.5"
+        "rasyid46/lumen-passport": "^0.3.5"
     }
 }
 ```
